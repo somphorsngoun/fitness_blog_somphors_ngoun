@@ -25,10 +25,10 @@
         }
     }else {
         // SESSION_START();
-        $_SESSION['user'] = '';
-        $_SESSION['passWD'] = '';
-        $_SESSION['profile'] = '';
-        $_SESSION['role'] = '';
+        // $_SESSION['user'] = '';
+        // $_SESSION['passWD'] = '';
+        // $_SESSION['profile'] = '';
+        // $_SESSION['role'] = '';
         header("Location: index.php?page=home");
         // include_once('pages/home.php');
     }
