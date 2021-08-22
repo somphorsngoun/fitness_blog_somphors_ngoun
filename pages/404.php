@@ -1,0 +1,1 @@
+<img src="https://sitechecker.pro/wp-content/uploads/2017/12/404.png" alt="">
